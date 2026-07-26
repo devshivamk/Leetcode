@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0283-move-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shivam1919-cpu/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Shivam1919-cpu/Leetcode/tree/master/0905-sort-array-by-parity) |
